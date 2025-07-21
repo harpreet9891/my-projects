@@ -31,10 +31,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/harpreet9891/my-projects
+git clone https://github.com/harpreet9891/task-manager-app
 
 # Move into the project directory
-cd my-projects
+cd task-manager-app
 
 # Install dependencies
 npm install
