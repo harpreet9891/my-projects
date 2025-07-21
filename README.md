@@ -34,6 +34,8 @@ git clone https://github.com/harpreet9891/my-projects
 # Move into the project directory
 cd my-projects
 
+The app will run at: [http://localhost:5173](http://localhost:5173)
+
 # Install dependencies
 npm install
 
