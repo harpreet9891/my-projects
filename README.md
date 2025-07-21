@@ -25,6 +25,8 @@ A task manager app built using React and Redux Toolkit where users can add tasks
 
 ## Installation
 
+The app will run at  [http://localhost:5173](http://localhost:5173)
+
 Follow these steps to run the project locally:
 
 ```bash
@@ -39,3 +41,5 @@ npm install
 
 # Start the development server
 npm run dev
+
+
