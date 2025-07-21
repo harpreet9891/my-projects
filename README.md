@@ -39,5 +39,3 @@ npm install
 
 # Start the development server
 npm run dev
-
-[click here](www.google.com)
