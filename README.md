@@ -25,7 +25,7 @@ A task manager app built using React and Redux Toolkit where users can add tasks
 
 ## Installation
 
-The app will run at  [http://localhost:5173](http://localhost:5173)
+The app will run at  [http://localhost:5173](http://localhost:5173) if Vite is used.
 
 Follow these steps to run the project locally:
 
